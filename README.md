@@ -4,6 +4,7 @@ Archlinux下的一些配置文件
 ### 终端：Alacritty
 ### 输入法：fctix5-nord
 ### 显卡管理：optimus-manager
+### 文件管理器：dolphin+ranger
 
 ## 办公
 ### office：okular+libreoffice
