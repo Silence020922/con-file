@@ -1,0 +1,665 @@
+c
+n
+ls
+cd zsh
+ls
+cp * ~/.zsh
+ls
+cd
+cd .zsh
+ls
+cd fzf-tab
+ls
+cd..
+ls
+c
+ls
+c
+ls
+cd ..
+ls
+vim fzf.zsh
+ls
+cd
+ls
+cd Documents
+s
+c
+lls
+s
+ls
+cd dotfile
+lls
+ls
+cd zsh
+ls
+cd ..
+c
+ls
+cd user
+ls
+cd ..
+ls
+sv
+ls
+cd
+cd .zsh
+ls
+mkdir cache
+ls
+exit
+c
+ls
+cd .zsh
+s
+ls
+cd cache
+ls
+cd ..
+vim fzf.zsh
+exit
+c
+n
+lls
+cd .zsh
+ls
+cd cach
+ls
+ls
+vim fzf.zsh
+ls
+c
+cd ..
+ls
+vim 0
+vim fzf.zsh
+cd ..
+cd cache
+ls
+touch fzfhistory
+exi
+exit
+c
+pwd
+cd cache
+ls
+pwd
+cd ..
+s
+ls
+vim fzf.zsh
+exit
+c
+neofetch
+sudo pacman -S rupgrep
+sudo pacman -S ripgrep
+c
+n
+cd
+ls
+cd Documents
+ls
+mkdir kwin
+ls
+cd 
+cd kwin
+ls
+cd Documents
+cd kwin
+ls
+git clone https://github.com/Jazqa/kwin-quarter-tiling.git
+git clone https://github.com/Jazqa/kwin-quarter-tiling.git
+git clone https://github.com/Jazqa/kwin-quarter-tiling.git
+	plasmapkg2 --type kwinscript -i kwin-quarter-tiling
+mkdir -p ~/.local/share/kservices5
+ln -sf ~/.local/share/kwin/scripts/quarter-tiling/metadata.desktop ~/.local/share/kservices5/kwin-script-quarter-tiling.desktop
+exit
++c
+c
+exit
+ls
+cd Documents
+ls
+cd dotfile
+ls
+cd user
+ls
+cd ..
+ls
+c
+ls
+cd config
+ls
+cd neofetch
+ls
+vim config.conf
+where config.conf
+cd ~/.config/
+ls
+cd neofetch
+ls
+vim config.conf
+cd
+cd dotfile
+ls
+cd config
+ls
+cd neofetch
+ls
+cp config.conf ~/.config/neofetch
+exit
+c
+n
+c
+exit
+sudo pacman -Syyu
+ls
+cd config
+ls
+cd fcitx5
+ls
+cd conf
+ls
+c
+exit
+sudo pacman -S okular
+c
+dv
+exit
+cmatrix
+exit
+ping www.baidu.com
+c
+exit
+ls
+cd .config
+ls
+cd 
+where alacritty
+cd /usr/bin/alacritty
+ls
+cd /usr/bin
+ls
+c
+cd .con
+ls
+mkdir alacritty
+cd alacritty
+vim alacritty.yml
+exit
+vim0
+vim alacritty.yml
+cd alacritty
+ls
+vim alacritty.yml
+exit
+cd alacritty
+vim alacritty.yml
+exit
+sudo pacman -S tlp tlp-rdw
+sudo systemctl enable tlp.service
+sudo systemctl enable NetworkManager-dispatcher.service
+sudo systemctl mask systemd-rfkill.service
+sudo systemctl mask systemd-rfkill.socket\
+
+c
+sudo tlp start
+exit
+n
+python
+ls
+cd dot0
+cd dotfile
+ls
+cd zsh
+ls
+cd ..
+cd user
+ls
+vim zshrc
+;c
+n
+cn
+cd /etc/default
+ls
+vim grub
+sudo vim grub
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+exit
+rb
+cd .config
+ls
+cd alacritty
+ls
+vim alacritty.yml
+exit
+cn
+shutdown now
+cn
+exit
+exit
+cn
+sudo pacman -Syy
+sudo pacman -Syu
+c
+cn
+shutdown now
+cn
+sudo pacman -Syy
+sudo pacman -Syu
+exit
+rb
+cn
+ls
+cd alacritty
+ls
+vim alacritty.yml
+exit
+cd alacritty
+vim alacritty.yml
+exit
+cd alacritty
+vim alacritty.yml
+exit
+cd alacritty
+vim alacritty.yml
+vim alacritty.yml
+vim alacritty.yml
+exit
+cd alacritty
+vim alacritty.yml
+vim alacritty.yml
+vim alacritty.yml
+vim alacritty.yml
+exit
+sv
+exit
+exit
+dv 
+exit
+yay -S  visual-studio-code
+yay -S  vscode
+yay
+yay -S visual-studio-code-bin
+exit
+cn
+ls
+cd Documents
+ls
+cd dotfile
+ls
+c
+ls
+cd zsh
+ls
+cd ..
+ls
+cd ..
+cd user
+ls
+vim zshrc
+exit
+sv
+exit
+dv
+exit
+cd dot0
+cd dotfile
+ls
+cd usr
+cd user
+ls
+cd ..
+cd tht
+cd theme
+ls
+cd ..
+c
+ls
+cd user
+ls
+cd ..
+cd config
+ls
+cd polybar
+ls
+sh launch.sh
+yay -S polybar-git
+exit
+sv
+exit
+ranger
+sudo pacman -S ranger
+ranger
+exit
+yay -S icalingua++
+exit
+ranger
+exit
+rb
+systemctl enable bluetooth.service
+systemctl restart bluetooth.service
+systemctl status bluetooth
+bluetoothctl
+bluetooth
+systemctl status bluetooth
+shutdown now
+
+
+yay -S pluseaudio-alsa
+yay -S pulseaudio-alsa
+yay -S pulseaudio-bluetooth
+rb
+c
+cn
+exit
+sv
+dv
+exit
+rb
+rb
+sudo pacman Syy
+sudo pacman -Syy
+c
+sudo pacman -Syu
+cn
+ls
+cd dot
+cd dotfile
+lls
+ls
+c
+ls
+ranger\
+
+exit
+sv 
+exit
+dv
+exit
+exit
+cmatrix
+cn
+flameshot
+cn
+
+
+shutdown now
+cn
+ranger
+cd .config
+ls
+exit
+shutdown now
+sudo pacman -Syyu
+yay
+rb
+sudo pacman -Syy
+ranger
+c
+cn
+ls
+cd dotfile
+ls
+exit
+sudo pacman -S texlive-bin
+exit
+cn
+ls
+cd Downloads
+ls
+cp settings.json ~/Documents/Tex
+ls
+cp settings.json ~/Documents/Tex/.vscode
+cd Tex
+cd Docu
+ls
+cd Tex
+ls
+rm settings.json
+ls
+cd ..
+cd Down
+ls
+rm settings.json
+ls
+exit
+sv
+exit
+: 1694225955:0;ls
+: 1694225958:0;cd Documents
+: 1694225958:0;ls
+: 1694225964:0;cd dotfile
+: 1694225965:0;ls
+: 1694225969:0;cd ..
+: 1694225970:0;ls
+: 1694225981:0;mkdir Arch
+: 1694225982:0;ls
+: 1694225984:0;cd Arch
+: 1694225985:0;ls
+: 1694225988:0;mkdir config
+: 1694225989:0;ls
+: 1694225990:0;cd
+: 1694225993:0;cd .cache
+: 1694225995:0;cd ..
+: 1694225997:0;cd .config
+: 1694225997:0;ls
+: 1694225998:0;c
+: 1694225999:0;ls
+: 1694226017:0;cd alacritty
+: 1694226018:0;ls
+: 1694226031:0;cp alacritty.yml ~/Documents/Arch
+: 1694226036:0;cd Ar
+: 1694226037:0;ls
+: 1694226046:0;cp alacritty.yml config
+: 1694226047:0;ls
+: 1694226050:0;rm alacritty.yml
+: 1694226050:0;ls
+: 1694226052:0;cd config
+: 1694226053:0;ls
+: 1694226055:0;vim alacritty.yml
+: 1694226064:0;ls
+: 1694226064:0;c
+: 1694226068:0;cd .config
+: 1694226069:0;ls
+: 1694226071:0;cd alacritty
+: 1694226071:0;ls
+: 1694226073:0;vim alacritty.yml
+: 1694226160:0;ls
+: 1694226162:0;cd ..
+: 1694226162:0;ls
+: 1694226162:0;c
+: 1694226163:0;lls
+: 1694226164:0;c
+: 1694226165:0;ls
+: 1694226169:0;cd KDE
+: 1694226170:0;ls
+: 1694226174:0;cd ..
+: 1694226177:0;cd KDE
+: 1694226182:0;ls
+: 1694226193:0;cd ..
+: 1694226194:0;c
+: 1694226194:0;ls
+: 1694226204:0;cd neofetch
+: 1694226205:0;ls
+: 1694226208:0;vim config.conf
+: 1694226213:0;ls
+: 1694226229:0;cp config.conf ~/Documents/Arch/config
+: 1694226230:0;ls
+: 1694226231:0;cd ..
+: 1694226232:0;ls
+: 1694226233:0;c
+: 1694226233:0;ls
+: 1694226244:0;cd icalingua
+: 1694226246:0;ls
+: 1694226251:0;where README
+: 1694226253:0;c
+: 1694226253:0;ls
+: 1694226258:0;cd ..
+: 1694226259:0;s
+: 1694226260:0;c
+: 1694226261:0;ls
+: 1694226277:0;c
+: 1694226278:0;cd
+: 1694226278:0;ls
+: 1694226279:0;c
+: 1694226287:0;ls
+: 1694226294:0;cd dot
+: 1694226295:0;ls
+: 1694226296:0;cd config
+: 1694226297:0;ls
+: 1694226301:0;cd ..
+: 1694226305:0;cd /usr/
+: 1694226305:0;ls
+: 1694226308:0;c
+: 1694226309:0;ls
+: 1694226310:0;cd bin
+: 1694226311:0;ls
+: 1694226334:0;where zshrc
+: 1694226338:0;where .zshrc
+: 1694226349:0;cd zsh
+: 1694226350:0;ls
+: 1694226358:0;c
+: 1694226360:0;ls
+: 1694226361:0;ls
+: 1694226364:0;cd Documents
+: 1694226365:0;ls
+: 1694226368:0;cd dotfile
+: 1694226368:0;lls
+: 1694226369:0;ls
+: 1694226369:0;c
+: 1694226370:0;ls
+: 1694226378:0;cd ..
+: 1694226379:0;ls
+: 1694226381:0;cd Arch
+: 1694226382:0;ls
+: 1694226383:0;c
+: 1694226383:0;ls
+: 1694226391:0;mkdir usr
+: 1694226392:0;ls
+: 1694226412:0;cp p10k.zsh ~/Documents/Arch/usr
+: 1694226468:0;c
+: 1694226468:0;cd
+: 1694226470:0;cd dot
+: 1694226471:0;ls
+: 1694226471:0;c
+: 1694226472:0;ls
+: 1694226474:0;cd user
+: 1694226476:0;l
+: 1694226477:0;ls
+: 1694226490:0;cd powerlevel10k
+: 1694226491:0;ls
+: 1694226498:0;cd ..
+: 1694226500:0;cd config
+: 1694226501:0;ls
+: 1694226512:0;cd alacritty
+: 1694226512:0;ls
+: 1694226517:0;vim alacritty.yml
+: 1694226537:0;cp alacritty.yml ~/.config/alacritty
+: 1694226559:0;ls
+: 1694226560:0;cd .
+: 1694226562:0;cd
+: 1694226562:0;ls
+: 1694226564:0;cd Ar
+: 1694226565:0;ls
+: 1694226565:0;c
+: 1694226566:0;ls
+: 1694226567:0;cd config
+: 1694226568:0;ls
+: 1694226574:0;cp alacritty.yml ~/.config/alacritty
+: 1694226626:0;ls
+: 1694226627:0;ls
+: 1694226628:0;cd ..
+: 1694226631:0;cd dot
+: 1694226631:0;ls
+: 1694226632:0;c
+: 1694226632:0;ls
+: 1694226634:0;cd config
+: 1694226634:0;ls
+: 1694226636:0;cd alacritty
+: 1694226637:0;ls
+: 1694226653:0;cp alacritty-cat.yml ~/.config/alacritty
+: 1694226656:0;ls
+: 1694226659:0;cat alacritty-cat.yml
+: 1694226677:0;c
+: 1694226679:0;cat alacritty-cat.yml
+: 1694226682:0;q
+: 1694226684:0;c
+: 1694226686:0;ls
+: 1694226691:0;ls
+: 1694226693:0;ls
+: 1694226709:0;cp alacritty-cat.yml ~/Documents/Arch/config
+: 1694226709:0;ls
+: 1694226711:0;cd ..
+: 1694226713:0;cd Ar
+: 1694226714:0;ls
+: 1694226714:0;c
+: 1694226716:0;cd config
+: 1694226716:0;ls
+: 1694226721:0;mkdir alacritty
+: 1694226721:0;ls
+: 1694226732:0;cp alacritty-cat.yml alacritty
+: 1694226744:0;cp alacritty.yml alacritty
+: 1694226745:0;ls
+: 1694226748:0;rm alacritty-cat.yml
+: 1694226751:0;rm alacritty.yml
+: 1694226752:0;ls
+: 1694226753:0;cd alacritty
+: 1694226754:0;ls
+: 1694226755:0;cd ..
+: 1694226755:0;ls
+: 1694226756:0;c
+: 1694226757:0;ls
+: 1694226762:0;cat config.conf
+: 1694226768:0;c
+: 1694226772:0;ls
+: 1694226778:0;mkdir neofetch
+: 1694226778:0;ls
+: 1694226782:0;cp config.conf neofetch
+: 1694226784:0;rm config.conf
+: 1694226785:0;ls
+: 1694226785:0;c
+: 1694226791:0;cd dot
+: 1694226791:0;ls
+: 1694226796:0;cd zs
+: 1694226797:0;ls
+: 1694226806:0;c
+: 1694226807:0;ls
+: 1694226809:0;cd ..
+: 1694226810:0;ls
+: 1694226811:0;c
+: 1694226812:0;ls
+: 1694226824:0;cd..
+: 1694226828:0;ls
+: 1694226836:0;cd A
+: 1694226837:0;ls
+: 1694226839:0;cd ..
+: 1694226843:0;ccd
+: 1694226844:0;cd
+: 1694226846:0;cd Ar
+: 1694226847:0;ls
+: 1694226848:0;c
+: 1694226850:0;cd usr
+: 1694226851:0;ls
+: 1694226853:0;rm p10k.zsh
+: 1694226858:0;cd ..
+: 1694226864:0;cp .zsh
+: 1694226869:0;ls
+: 1694226882:0;cd /usr
+: 1694226882:0;ls
+: 1694226886:0;cd bin
+: 1694226886:0;ls
+: 1694226895:0;cd zsh
+: 1694226896:0;ls
+: 1694226899:0;mkdir zsh
+: 1694226900:0;ls
+: 1694226906:0;ls
+: 1694226948:0;cp cache fast-syntax-highlighting fzf-tab fzf.zsh p10k.zsh powerlevel10k zsh-autosuggestions img_preview ~/Documents/Arch/usr
+: 1694226952:0;c
+: 1694226953:0;ls
+: 1694226955:0;ls
+: 1694226972:0;cp cache ~/Documents/Arch/usr
+: 1694226979:0;cp -r cache ~/Documents/Arch/usr
+: 1694226981:0;ls
+: 1694226997:0;cp -r cache fast-syntax-highlighting fzf-tab fzf.zsh p10k.zsh powerlevel10k zsh-autosuggestions img_preview ~/Documents/Arch/usr
