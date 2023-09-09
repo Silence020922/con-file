@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	clover
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	1
+#@/user_id	02e4076e-1294-41b6-8641-3150153cf2fb
+pei zhi 	配置	c=1 d=1 t=1

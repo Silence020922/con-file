@@ -1,0 +1,40 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	46
+#@/user_id	02e4076e-1294-41b6-8641-3150153cf2fb
+a 	啊	c=1 d=1 t=46
+a li 	阿里	c=1 d=0.995012 t=46
+an zhuang shi yong 	安装使用	c=1 d=1 t=46
+cang ku 	仓库	c=3 d=2.89335 t=46
+chong ming ming 	重命名	c=2 d=1.87888 t=46
+chuan 	传	c=1 d=0.99005 t=46
+chuang kou 	窗口	c=1 d=0.99005 t=46
+da xiao 	大小	c=2 d=1.95581 t=46
+dao 	到	c=3 d=2.85087 t=46
+fu zhi 	复制	c=1 d=0.985112 t=46
+lan ya 	蓝牙	c=1 d=0.99005 t=46
+li 	里	c=1 d=0.980199 t=46
+lian jie 	连接	c=2 d=1.97025 t=46
+mei hua 	美化	c=1 d=1 t=46
+pei zhi wen jian 	配置文件	c=1 d=0.97531 t=46
+qi dong 	启动	c=1 d=1 t=46
+ru he 	如何	c=1 d=0.995012 t=46
+shan dong da xue 	山东大学	c=1 d=1 t=46
+shang chuan 	上传	c=2 d=1.87451 t=46
+shang chuan dao 	上传到	c=1 d=0.995012 t=46
+she zhi 	设置	c=1 d=1 t=46
+shi bai 	失败	c=1 d=1 t=46
+shu ru fa 	输入法	c=1 d=1 t=46
+wen jian 	文件	c=2 d=1.8883 t=46
+wo zai zhe 	我在这	c=1 d=0.995012 t=46
+xia 	下	c=1 d=0.941765 t=46
+xiang guan 	相关	c=1 d=0.970446 t=46
+yi deng 	一等	c=1 d=0.99005 t=46
+yin dao 	引导	c=1 d=1 t=46
+yun 	云	c=1 d=1 t=46
+zai bie 	再别	c=1 d=1 t=46
+zhong duan 	终端	c=3 d=2.90195 t=46
+zhu ti 	主题	c=1 d=1 t=46
+zi ti 	字体	c=2 d=1.96536 t=46
