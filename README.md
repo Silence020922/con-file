@@ -6,7 +6,7 @@ Archlinux下的一些配置文件
 ### 显卡管理：optimus-manager
 ### 文件管理器：dolphin+ranger
 ### 终端：zsh+powerlevel10k
-### 核心组件平替：ls,find,cd...参考https://wiki.archlinux.org/title/Core\_utilities#Essentials
+### 核心组件平替：ls,find,cd...[参考](https://wiki.archlinux.org/title/Core\_utilities#Essentials)
 
 ## 办公
 ### office：okular+libreoffice
